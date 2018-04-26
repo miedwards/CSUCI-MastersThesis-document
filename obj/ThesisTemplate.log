@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.10.18)  25 APR 2018 18:06
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.10.18)  25 APR 2018 22:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -425,16 +425,16 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 \c@lstlisting=\count137
 \AtBeginShipoutBox=\box38
- [1
+ (./TitlePage.tex [1
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 39.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 33.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 39.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
  [1] [2]
 File: DistributionLicense.pdf Graphic file (type QTm)
 
@@ -461,21 +461,21 @@ File: DistributionLicense.pdf Graphic file (type QTm)
 File: DistributionLicense.pdf Graphic file (type QTm)
 
 <use  "DistributionLicense.pdf"  page1> [3]
-LaTeX Font Info:    Try loading font information for U+lasy on input line 83.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 77.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 83.
+LaTeX Font Info:    Try loading font information for U+msa on input line 77.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 83.
+LaTeX Font Info:    Try loading font information for U+msb on input line 77.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [4]
+)) [4]
 (obj/ThesisTemplate.toc)
 \tf@toc=\write4
 \openout4 = `ThesisTemplate.toc'.
@@ -488,8 +488,8 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [1] (./Background.tex) [2] (./Conclusion.tex) [3] (obj/ThesisTemplate.bbl)
 [4] (obj/ThesisTemplate.aux) ) 
 Here is how much of TeX's memory you used:
- 7096 strings out of 493724
- 95681 string characters out of 6145898
+ 7099 strings out of 493724
+ 95718 string characters out of 6145898
  191344 words of memory out of 5000000
  10258 multiletter control sequences out of 15000+600000
  11035 words of font info for 47 fonts, out of 8000000 for 9000
