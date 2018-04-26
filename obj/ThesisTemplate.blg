@@ -1,11 +1,11 @@
-This is BibTeX, Version 0.99d (TeX Live 2017)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: ThesisTemplate.aux
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: obj/ThesisTemplate.aux
 The style file: plain.bst
 Database file #1: references.bib
 You've used 1 entry,
             2118 wiz_defined-function locations,
-            505 strings with 4157 characters,
+            505 strings with 4165 characters,
 and the built_in function-call counts, 384 in all, are:
 = -- 37
 > -- 18
